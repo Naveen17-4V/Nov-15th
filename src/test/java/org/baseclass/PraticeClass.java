@@ -24,6 +24,8 @@ public class PraticeClass extends BaseClasses {
 		LoginPojo n = new LoginPojo();
 		sendkey("RajMurugan", n.getEmailid());
 		sendkey("23456", n.getPassword());
+		
+		System.out.println("Navi_dude_137");
 	}
 
 }
